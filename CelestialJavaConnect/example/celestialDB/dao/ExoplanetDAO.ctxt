@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ExoplanetDAO
+comment1.params=
+comment1.target=java.util.List\ getAllExoplanets()
+comment2.params=exoplanet_id
+comment2.target=example.celestialDB.model.Exoplanets\ getExoplanetById(int)
+comment3.params=exoplanet
+comment3.target=boolean\ addExoplanet(example.celestialDB.model.Exoplanets)
+comment4.params=exoplanet
+comment4.target=boolean\ updateExoplanet(example.celestialDB.model.Exoplanets)
+comment5.params=id
+comment5.target=boolean\ deleteExoplanet(int)
+comment6.params=nameQuery
+comment6.target=java.util.List\ searchExoplanetsByName(java.lang.String)
+numComments=7

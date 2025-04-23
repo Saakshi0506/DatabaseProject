@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CelestialApp
+comment0.text=\r\n\ Main\ application\ class\ for\ the\ Celestial\ Exoplanetary\ System\ Database.\r\n\ Sets\ up\ the\ JavaFX\ UI\ and\ handles\ user\ interactions.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=title\ message\ type
+comment3.target=void\ showAlert(java.lang.String,\ java.lang.String,\ javafx.scene.control.Alert.AlertType)
+comment3.text=\r\n\ Utility\ method\ to\ show\ an\ alert\ dialog\ for\ errors\ or\ warnings.\r\n
+numComments=4

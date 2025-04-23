@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Galaxies
+comment1.params=
+comment1.target=Galaxies()
+comment10.params=
+comment10.target=int\ getDistanceLY()
+comment11.params=distance
+comment11.target=void\ setDistance(int)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=galaxy_id\ name\ type\ distanceLY
+comment2.target=Galaxies(int,\ java.lang.String,\ java.lang.String,\ int)
+comment3.params=name\ type\ distanceLY
+comment3.target=Galaxies(java.lang.String,\ java.lang.String,\ int)
+comment4.params=
+comment4.target=int\ getGalaxy_id()
+comment5.params=galaxy_id
+comment5.target=void\ setId(int)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getType()
+comment9.params=type
+comment9.target=void\ setType(java.lang.String)
+numComments=13

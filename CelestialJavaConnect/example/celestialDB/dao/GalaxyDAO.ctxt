@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GalaxyDAO
+comment1.params=
+comment1.target=java.util.List\ getAllGalaxies()
+comment2.params=id
+comment2.target=example.celestialDB.model.Galaxies\ getGalaxyById(int)
+comment3.params=galaxy
+comment3.target=boolean\ addGalaxies(example.celestialDB.model.Galaxies)
+comment4.params=galaxy
+comment4.target=boolean\ updateGalaxy(example.celestialDB.model.Galaxies)
+comment5.params=id
+comment5.target=boolean\ deleteGalaxy(int)
+comment6.params=nameQuery
+comment6.target=java.util.List\ searchGalaxiesByName(java.lang.String)
+numComments=7
